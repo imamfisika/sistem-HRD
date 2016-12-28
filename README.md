@@ -1,2 +1,0 @@
-# sistem-HRD
-portal HRD
